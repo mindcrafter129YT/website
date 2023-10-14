@@ -1,0 +1,190 @@
+.welcome {
+    font-family: "Press start 2p", "sans-serif";
+    font-size: xx-large;
+    color: azure;
+}
+
+.aboutnav {
+
+font-family: "Press Start 2P" ;
+font-size: 14px;
+padding: auto;
+opacity: 1;
+    transition: opacity 0.3s ease 20ms;
+}
+
+.aboutnav:hover {
+
+    opacity: 0.8;
+
+}
+
+.downloadsnav {
+    padding: auto;
+    font-family: "Press Start 2P" ;
+    font-size: 14px;
+    opacity: 1;
+    transition: opacity 0.3s ease 20ms;
+}
+
+.downloadsnav:hover {
+
+    opacity: 0.8;
+
+}
+
+.homenav {
+    padding: auto;
+    font-family: "Press Start 2P" ;
+    font-size: 14px;
+    opacity: 1;
+    transition: opacity 0.3s ease 20ms;
+
+}
+
+.homenav:hover {
+
+    opacity: 0.8;
+
+}
+
+.mrnav {
+
+    padding: auto;
+    font-family: "Press Start 2P" ;
+    font-size: 14px;
+    opacity: 1;
+    transition: opacity 0.3s ease 20ms;
+
+}
+
+.mrnav:hover {
+
+    opacity: 0.8;
+
+}
+
+.cfnav {
+
+    padding: auto;
+    font-family: "Press Start 2P" ;
+    font-size: 14px;
+    opacity: 1;
+    transition: opacity 0.3s ease 20ms;
+
+}
+
+.cfnav:hover {
+
+    opacity: 0.8;
+
+}
+
+.downloads {
+
+    padding: auto;
+    font-family: "Press Start 2P" ;
+    font-size: xx-large;
+
+}
+
+.about {
+
+    padding: auto;
+    font-family: "Press Start 2P" ;
+    font-size: xx-large;
+
+}
+
+.smallaboutme {
+
+    padding: auto;
+    font-family: "Press Start 2P" ;
+    font-size: 14px;
+    color: azure;
+
+}
+
+.downloadsaao {
+
+    padding: auto;
+    font-family: "Press Start 2P" ;
+    font-size: 16px;
+
+}
+
+.aaoimg {
+    position: absolute;
+    top: 150px; 
+    left: 240px;
+    overflow: hidden;
+    border-radius: 5%;
+
+}
+
+.aaolink {
+
+    cursor: pointer;
+    color: rgb(175, 175, 175);
+    text-decoration: none;
+    font-family: "Press Start 2P" ;
+    font-size: large;
+
+}
+
+.aaolink:visited {
+
+    color: rgb(139, 139, 139);
+
+}
+
+.auimg {
+
+    position: absolute;
+    top: 300px;
+    left: 319px;
+    overflow: hidden;
+    border-radius: 5%;
+
+}
+
+.aulink {
+
+    cursor: pointer;
+    color: rgb(175, 175, 175);
+    text-decoration: none;
+    font-family: "Press Start 2P" ;
+    font-size: large;
+
+}
+
+.aulink:visited {
+
+    color: rgb(139, 139, 139);
+
+}
+
+.Socials {
+
+    padding: auto;
+    font-family: "Press Start 2P" ;
+    font-size: 14px;
+    color: azure;
+
+}
+
+.support {
+
+    padding: auto;
+    font-family: "Press Start 2P" ;
+    font-size: 14px;
+    color: azure;
+    opacity: 1;
+    transition: opacity 0.3s ease 20ms;
+
+}
+
+.support:hover {
+
+    opacity: 0.8;
+}
