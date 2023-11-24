@@ -11,6 +11,7 @@ font-size: 14px;
 padding: auto;
 opacity: 1;
     transition: opacity 0.3s ease 20ms;
+    cursor: pointer;
 }
 
 .aboutnav:hover {
@@ -25,6 +26,7 @@ opacity: 1;
     font-size: 14px;
     opacity: 1;
     transition: opacity 0.3s ease 20ms;
+    cursor: pointer;
 }
 
 .downloadsnav:hover {
@@ -39,6 +41,7 @@ opacity: 1;
     font-size: 14px;
     opacity: 1;
     transition: opacity 0.3s ease 20ms;
+    cursor: pointer;
 
 }
 
@@ -55,6 +58,7 @@ opacity: 1;
     font-size: 14px;
     opacity: 1;
     transition: opacity 0.3s ease 20ms;
+    cursor: pointer;
 
 }
 
@@ -71,6 +75,7 @@ opacity: 1;
     font-size: 14px;
     opacity: 1;
     transition: opacity 0.3s ease 20ms;
+    cursor: pointer;
 
 }
 
@@ -85,6 +90,7 @@ opacity: 1;
     padding: auto;
     font-family: "Press Start 2P" ;
     font-size: xx-large;
+    cursor: pointer;
 
 }
 
@@ -93,6 +99,7 @@ opacity: 1;
     padding: auto;
     font-family: "Press Start 2P" ;
     font-size: xx-large;
+    cursor: pointer;
 
 }
 
@@ -110,6 +117,7 @@ opacity: 1;
     padding: auto;
     font-family: "Press Start 2P" ;
     font-size: 16px;
+    cursor: pointer;
 
 }
 
@@ -129,6 +137,7 @@ opacity: 1;
     text-decoration: none;
     font-family: "Press Start 2P" ;
     font-size: large;
+    cursor: pointer;
 
 }
 
@@ -181,6 +190,7 @@ opacity: 1;
     color: azure;
     opacity: 1;
     transition: opacity 0.3s ease 20ms;
+    cursor: pointer;
 
 }
 
